@@ -60,11 +60,6 @@ A team-based mobile application for booking **car wash services** at user-prefer
 
 ---
 
-## GitHub & Portfolio
-Check out my projects and contributions: [GitHub Profile]([https://github.com/kwndtwalo](https://github.com/KwandaTwalo))  
-
----
-
 > I am highly motivated to grow as a software developer, contribute to impactful projects, and continue learning new technologies. My strong foundation in full-stack development, problem-solving skills, and attention to detail make me a valuable addition to any development team.
 
 
