@@ -1,6 +1,7 @@
 # Kwanda Twalo – Software Developer
 
 📧 **Email:** kwndtwalo@gmail.com  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kwanda%20Twalo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kwanda-twalo-894998258/)
 
 ---
@@ -60,7 +61,7 @@ A team-based mobile application for booking **car wash services** at user-prefer
 ---
 
 ## GitHub & Portfolio
-Check out my projects and contributions: [GitHub Profile](https://github.com/kwndtwalo)  
+Check out my projects and contributions: [GitHub Profile]([https://github.com/kwndtwalo](https://github.com/KwandaTwalo))  
 
 ---
 
